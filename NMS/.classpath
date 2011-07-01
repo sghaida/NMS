@@ -5,5 +5,10 @@
 	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/gxt-2.2.4-gwt22.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/snmp4j-1.11.3.jar" sourcepath="/Volumes/HD2/Downloads/snmp4j-1.11.3/src">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Volumes/HD2/Downloads/snmp4j-1.11.3/dist/snmp4j-1.11.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>

@@ -1,0 +1,2 @@
+serviceClass: com.home.nms.client.NMSService
+path: 11A5C35AF84428FFAAF425F171EBF91D.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: com.home.nms.client.GreetingService
+path: 0989A3C4AA1858EF11B8E417C7471768.gwt.rpc
